@@ -1,0 +1,39 @@
+2026-01-16 23:25:13,167 - INFO - ✓ Loaded config from price_tracker_config.json
+2026-01-16 23:25:13,168 - INFO - ======================================================================
+2026-01-16 23:25:13,168 - INFO - Price Tracker Configuration
+2026-01-16 23:25:13,168 - INFO - ======================================================================
+2026-01-16 23:25:13,168 - INFO - Ticker: BTC-USD
+2026-01-16 23:25:13,169 - INFO - Check interval: 60s
+2026-01-16 23:25:13,169 - INFO - Alert threshold: 2.0%
+2026-01-16 23:25:13,169 - INFO - Telegram enabled: False
+2026-01-16 23:25:13,169 - INFO - ======================================================================
+2026-01-16 23:25:13,170 - INFO - ✓ Initialized tracker for BTC-USD
+2026-01-16 23:25:13,170 - INFO - 🚀 Starting price tracker for BTC-USD
+2026-01-16 23:25:13,171 - INFO -    Check interval: 60 seconds
+2026-01-16 23:25:13,171 - INFO -    SMA period: 10
+2026-01-16 23:25:13,171 - INFO -    Alert threshold: 2.0% drop in 60 minutes
+2026-01-16 23:25:13,171 - INFO -    System beep alerts: ON
+2026-01-16 23:25:13,171 - INFO -    Telegram alerts: OFF
+2026-01-16 23:25:46,791 - INFO - ✓ Loaded config from price_tracker_config.json
+2026-01-16 23:25:46,791 - INFO - ✓ Loaded ticker from environment variable
+2026-01-16 23:25:46,791 - INFO - ======================================================================
+2026-01-16 23:25:46,792 - INFO - Price Tracker Configuration
+2026-01-16 23:25:46,792 - INFO - ======================================================================
+2026-01-16 23:25:46,792 - INFO - Ticker: AAPL
+2026-01-16 23:25:46,792 - INFO - Check interval: 60s
+2026-01-16 23:25:46,792 - INFO - Alert threshold: 2.0%
+2026-01-16 23:25:46,792 - INFO - Telegram enabled: False
+2026-01-16 23:25:46,792 - INFO - ======================================================================
+2026-01-16 23:25:46,793 - INFO - ✓ Initialized tracker for AAPL
+2026-01-16 23:25:46,793 - INFO - 🚀 Starting price tracker for AAPL
+2026-01-16 23:25:46,794 - INFO -    Check interval: 60 seconds
+2026-01-16 23:25:46,794 - INFO -    SMA period: 10
+2026-01-16 23:25:46,794 - INFO -    Alert threshold: 2.0% drop in 60 minutes
+2026-01-16 23:25:46,794 - INFO -    System beep alerts: ON
+2026-01-16 23:25:46,794 - INFO -    Telegram alerts: OFF
+2026-01-16 23:25:49,029 - INFO - AAPL Price: $256.22 | SMA: -- | Records: 1
+2026-01-16 23:26:51,973 - INFO - AAPL Price: $256.06 | SMA: -- | Records: 2
+2026-01-16 23:27:54,244 - INFO - AAPL Price: $256.12 | SMA: -- | Records: 3
+2026-01-16 23:28:57,148 - INFO - AAPL Price: $256.14 | SMA: -- | Records: 4
+2026-01-16 23:30:00,156 - INFO - AAPL Price: $256.18 | SMA: -- | Records: 5
+2026-01-16 23:31:03,140 - INFO - AAPL Price: $256.16 | SMA: -- | Records: 6

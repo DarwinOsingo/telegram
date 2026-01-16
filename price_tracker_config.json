@@ -1,0 +1,11 @@
+{
+  "ticker": "BTC-USD",
+  "sma_period": 10,
+  "check_interval": 60,
+  "price_drop_threshold": 2.0,
+  "alert_window_minutes": 60,
+  "use_system_beep": true,
+  "max_retries": 3,
+  "telegram_bot_token": null,
+  "telegram_chat_id": null
+}
