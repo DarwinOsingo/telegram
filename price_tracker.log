@@ -37,3 +37,825 @@
 2026-01-16 23:28:57,148 - INFO - AAPL Price: $256.14 | SMA: -- | Records: 4
 2026-01-16 23:30:00,156 - INFO - AAPL Price: $256.18 | SMA: -- | Records: 5
 2026-01-16 23:31:03,140 - INFO - AAPL Price: $256.16 | SMA: -- | Records: 6
+2026-01-16 23:32:06,217 - INFO - AAPL Price: $256.15 | SMA: -- | Records: 7
+2026-01-16 23:33:09,276 - INFO - AAPL Price: $256.16 | SMA: -- | Records: 8
+2026-01-16 23:34:12,418 - INFO - AAPL Price: $256.19 | SMA: -- | Records: 9
+2026-01-16 23:35:15,747 - INFO - AAPL Price: $256.30 | SMA: $256.17 | Records: 10
+2026-01-16 23:36:17,573 - INFO - AAPL Price: $256.18 | SMA: $256.16 | Records: 11
+2026-01-16 23:37:21,087 - INFO - AAPL Price: $256.33 | SMA: $256.19 | Records: 12
+2026-01-16 23:38:24,497 - INFO - AAPL Price: $256.35 | SMA: $256.21 | Records: 13
+2026-01-16 23:39:27,753 - INFO - AAPL Price: $256.40 | SMA: $256.24 | Records: 14
+2026-01-16 23:40:31,362 - INFO - AAPL Price: $256.23 | SMA: $256.24 | Records: 15
+2026-01-16 23:41:34,763 - INFO - AAPL Price: $255.96 | SMA: $256.22 | Records: 16
+2026-01-16 23:42:37,994 - INFO - AAPL Price: $255.74 | SMA: $256.18 | Records: 17
+2026-01-16 23:43:41,301 - INFO - AAPL Price: $255.79 | SMA: $256.15 | Records: 18
+2026-01-17 08:22:47,442 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:22:58,308 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:23:09,974 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:23:09,976 - WARNING - Retrying in 60s...
+2026-01-17 08:24:22,016 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:24:34,127 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:24:45,546 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:24:45,551 - WARNING - Retrying in 60s...
+2026-01-17 08:25:57,549 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:26:09,562 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:26:21,159 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:26:21,160 - WARNING - Retrying in 60s...
+2026-01-17 08:27:33,013 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:27:43,796 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:27:56,673 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:27:56,674 - WARNING - Retrying in 60s...
+2026-01-17 08:29:08,505 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:29:19,144 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:29:32,188 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:29:32,188 - WARNING - Retrying in 60s...
+2026-01-17 08:30:44,154 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:30:54,821 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:31:06,608 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:31:06,609 - WARNING - Retrying in 60s...
+2026-01-17 08:32:20,024 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:32:30,454 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:32:42,236 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:32:42,236 - WARNING - Retrying in 60s...
+2026-01-17 08:33:55,761 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:34:06,327 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:34:17,950 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:34:17,957 - WARNING - Retrying in 60s...
+2026-01-17 08:35:30,090 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:35:42,003 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:35:53,760 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:35:53,761 - WARNING - Retrying in 60s...
+2026-01-17 08:37:05,584 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:37:17,343 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:37:29,069 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 08:37:29,069 - WARNING - Retrying in 60s...
+2026-01-17 08:38:40,904 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:38:51,637 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 08:39:03,086 - INFO - AAPL Price: $255.48 | SMA: $256.08 | Records: 19
+2026-01-17 08:40:05,680 - INFO - AAPL Price: $255.48 | SMA: $255.99 | Records: 20
+2026-01-17 08:41:07,149 - INFO - AAPL Price: $255.48 | SMA: $255.92 | Records: 21
+2026-01-17 08:42:09,665 - INFO - AAPL Price: $255.48 | SMA: $255.84 | Records: 22
+2026-01-17 08:43:12,023 - INFO - AAPL Price: $255.48 | SMA: $255.75 | Records: 23
+2026-01-17 08:44:15,474 - INFO - AAPL Price: $255.48 | SMA: $255.66 | Records: 24
+2026-01-17 08:45:18,234 - INFO - AAPL Price: $255.48 | SMA: $255.58 | Records: 25
+2026-01-17 08:46:21,808 - INFO - AAPL Price: $255.48 | SMA: $255.54 | Records: 26
+2026-01-17 08:47:25,102 - INFO - AAPL Price: $255.48 | SMA: $255.51 | Records: 27
+2026-01-17 08:48:28,641 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 28
+2026-01-17 08:49:30,655 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 29
+2026-01-17 08:50:34,138 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 30
+2026-01-17 08:51:37,410 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 31
+2026-01-17 08:52:40,833 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 32
+2026-01-17 08:53:44,346 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 33
+2026-01-17 08:54:47,298 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 34
+2026-01-17 08:55:50,574 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 35
+2026-01-17 08:56:52,376 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 36
+2026-01-17 08:57:56,293 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 37
+2026-01-17 08:58:59,514 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 38
+2026-01-17 09:00:02,673 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 39
+2026-01-17 09:01:06,122 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 40
+2026-01-17 09:02:08,005 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 41
+2026-01-17 09:03:12,466 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 42
+2026-01-17 09:04:16,001 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 43
+2026-01-17 09:05:19,601 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 44
+2026-01-17 09:06:23,127 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 45
+2026-01-17 09:07:25,119 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 46
+2026-01-17 09:08:29,143 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 47
+2026-01-17 09:09:32,528 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 48
+2026-01-17 09:10:36,265 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 49
+2026-01-17 09:11:38,292 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 50
+2026-01-17 09:12:42,124 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 51
+2026-01-17 09:13:45,483 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 52
+2026-01-17 09:14:48,775 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 53
+2026-01-17 09:15:50,533 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 54
+2026-01-17 09:16:54,214 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 55
+2026-01-17 09:17:56,944 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 56
+2026-01-17 09:18:59,732 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 57
+2026-01-17 09:20:01,938 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 58
+2026-01-17 09:21:04,724 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 59
+2026-01-17 09:22:08,023 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 60
+2026-01-17 09:23:10,956 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 61
+2026-01-17 09:24:12,623 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 62
+2026-01-17 09:25:15,387 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 63
+2026-01-17 09:26:18,242 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 64
+2026-01-17 09:27:21,565 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 65
+2026-01-17 09:28:25,788 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 66
+2026-01-17 09:29:27,495 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 67
+2026-01-17 09:30:30,632 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 68
+2026-01-17 09:31:35,845 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 69
+2026-01-17 09:32:39,994 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 70
+2026-01-17 09:33:41,781 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 71
+2026-01-17 09:34:44,582 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 72
+2026-01-17 09:35:47,621 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 73
+2026-01-17 09:36:50,940 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 74
+2026-01-17 09:37:53,849 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 75
+2026-01-17 09:38:55,448 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 76
+2026-01-17 09:39:57,604 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 77
+2026-01-17 09:41:00,115 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 78
+2026-01-17 09:42:02,513 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 79
+2026-01-17 09:43:05,288 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 80
+2026-01-17 09:44:07,178 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 81
+2026-01-17 09:45:10,162 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 82
+2026-01-17 09:46:12,734 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 83
+2026-01-17 09:47:14,898 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 84
+2026-01-17 09:48:17,525 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 85
+2026-01-17 09:49:20,060 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 86
+2026-01-17 09:50:22,653 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 87
+2026-01-17 09:51:25,315 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 88
+2026-01-17 09:52:28,211 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 89
+2026-01-17 09:53:33,001 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 90
+2026-01-17 09:54:38,356 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 91
+2026-01-17 09:55:41,993 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 92
+2026-01-17 09:56:43,983 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 93
+2026-01-17 09:57:47,491 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 94
+2026-01-17 09:58:51,439 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 95
+2026-01-17 09:59:54,821 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 96
+2026-01-17 10:00:56,691 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 97
+2026-01-17 10:02:00,103 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 98
+2026-01-17 10:03:03,602 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 99
+2026-01-17 10:04:07,001 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 100
+2026-01-17 10:05:10,565 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 101
+2026-01-17 10:06:14,047 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 102
+2026-01-17 10:07:17,652 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 103
+2026-01-17 10:08:21,236 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 104
+2026-01-17 10:09:24,921 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 105
+2026-01-17 10:10:29,099 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 106
+2026-01-17 10:11:33,963 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 107
+2026-01-17 10:12:38,034 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 108
+2026-01-17 10:13:42,042 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 109
+2026-01-17 10:14:44,223 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 110
+2026-01-17 10:15:48,116 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 111
+2026-01-17 10:16:50,034 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 112
+2026-01-17 10:17:51,458 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 113
+2026-01-17 10:18:53,305 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 114
+2026-01-17 10:19:56,174 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 115
+2026-01-17 10:20:59,191 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 116
+2026-01-17 10:22:00,893 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 117
+2026-01-17 10:23:03,801 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 118
+2026-01-17 10:24:06,759 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 119
+2026-01-17 10:25:09,924 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 120
+2026-01-17 10:26:13,084 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 121
+2026-01-17 10:27:13,575 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 122
+2026-01-17 10:28:16,863 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 123
+2026-01-17 10:29:19,755 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 124
+2026-01-17 10:30:22,694 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 125
+2026-01-17 10:31:25,863 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 126
+2026-01-17 10:32:30,711 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 127
+2026-01-17 10:33:34,237 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 128
+2026-01-17 10:34:37,704 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 129
+2026-01-17 10:35:41,224 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 130
+2026-01-17 10:36:43,279 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 131
+2026-01-17 10:37:46,646 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 132
+2026-01-17 10:38:49,948 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 133
+2026-01-17 10:39:53,566 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 134
+2026-01-17 10:40:56,242 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 135
+2026-01-17 10:41:59,724 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 136
+2026-01-17 10:43:02,707 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 137
+2026-01-17 10:44:05,886 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 138
+2026-01-17 10:45:07,800 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 139
+2026-01-17 10:46:11,014 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 140
+2026-01-17 10:47:14,195 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 141
+2026-01-17 10:48:19,418 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 142
+2026-01-17 10:49:22,838 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 143
+2026-01-17 10:50:26,247 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 144
+2026-01-17 10:51:29,562 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 145
+2026-01-17 10:52:31,328 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 146
+2026-01-17 10:53:34,673 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 147
+2026-01-17 10:54:37,241 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 148
+2026-01-17 10:55:39,975 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 149
+2026-01-17 10:56:42,923 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 150
+2026-01-17 10:57:45,875 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 151
+2026-01-17 10:58:47,676 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 152
+2026-01-17 10:59:50,945 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 153
+2026-01-17 11:00:54,332 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 154
+2026-01-17 11:01:57,588 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 155
+2026-01-17 11:03:00,714 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 156
+2026-01-17 11:04:02,650 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 157
+2026-01-17 11:05:06,559 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 158
+2026-01-17 11:06:09,891 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 159
+2026-01-17 11:07:13,373 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 160
+2026-01-17 11:08:16,661 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 161
+2026-01-17 11:09:20,127 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 162
+2026-01-17 11:10:25,875 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 163
+2026-01-17 11:11:27,944 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 164
+2026-01-17 11:12:31,957 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 165
+2026-01-17 11:13:35,668 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 166
+2026-01-17 11:14:37,836 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 167
+2026-01-17 11:15:42,113 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 168
+2026-01-17 11:16:46,619 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 169
+2026-01-17 11:17:51,592 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 170
+2026-01-17 11:18:56,130 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 171
+2026-01-17 11:20:00,484 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 172
+2026-01-17 11:21:02,824 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 173
+2026-01-17 11:22:07,520 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 174
+2026-01-17 11:23:11,365 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 175
+2026-01-17 11:24:15,751 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 176
+2026-01-17 11:25:19,734 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 177
+2026-01-17 11:26:23,772 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 178
+2026-01-17 11:27:27,626 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 179
+2026-01-17 11:28:31,645 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 180
+2026-01-17 11:29:33,859 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 181
+2026-01-17 11:30:37,830 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 182
+2026-01-17 11:31:41,879 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 183
+2026-01-17 11:32:45,776 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 184
+2026-01-17 11:33:51,297 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 185
+2026-01-17 11:34:55,534 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 186
+2026-01-17 11:35:59,888 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 187
+2026-01-17 11:37:04,293 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 188
+2026-01-17 11:38:06,510 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 189
+2026-01-17 11:39:11,319 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 190
+2026-01-17 11:40:16,076 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 191
+2026-01-17 11:41:20,584 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 192
+2026-01-17 11:42:26,054 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 193
+2026-01-17 11:43:30,138 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 194
+2026-01-17 11:44:34,679 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 195
+2026-01-17 11:45:39,128 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 196
+2026-01-17 11:46:43,223 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 197
+2026-01-17 11:47:45,568 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 198
+2026-01-17 11:48:49,764 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 199
+2026-01-17 11:49:54,004 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 200
+2026-01-17 11:50:58,136 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 201
+2026-01-17 11:52:02,700 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 202
+2026-01-17 11:53:06,669 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 203
+2026-01-17 11:54:11,467 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 204
+2026-01-17 11:55:13,949 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 205
+2026-01-17 11:56:19,487 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 206
+2026-01-17 11:57:25,401 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 207
+2026-01-17 11:58:30,207 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 208
+2026-01-17 11:59:34,823 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 209
+2026-01-17 12:00:39,909 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 210
+2026-01-17 12:01:44,970 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 211
+2026-01-17 12:02:49,434 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 212
+2026-01-17 12:03:52,072 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 213
+2026-01-17 12:04:57,412 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 214
+2026-01-17 12:06:01,727 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 215
+2026-01-17 12:07:05,991 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 216
+2026-01-17 12:08:10,347 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 217
+2026-01-17 12:09:12,734 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 218
+2026-01-17 12:10:17,194 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 219
+2026-01-17 12:11:21,566 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 220
+2026-01-17 12:12:26,804 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 221
+2026-01-17 12:13:29,202 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 222
+2026-01-17 12:14:29,579 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 223
+2026-01-17 12:15:32,667 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 224
+2026-01-17 12:16:35,832 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 225
+2026-01-17 12:17:37,547 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 226
+2026-01-17 12:18:40,958 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 227
+2026-01-17 12:19:44,437 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 228
+2026-01-17 12:20:48,449 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 229
+2026-01-17 12:21:50,771 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 230
+2026-01-17 12:22:54,620 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 231
+2026-01-17 12:23:58,406 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 232
+2026-01-17 12:25:01,995 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 233
+2026-01-17 12:26:06,950 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 234
+2026-01-17 12:27:11,140 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 235
+2026-01-17 12:28:15,107 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 236
+2026-01-17 12:29:18,923 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 237
+2026-01-17 12:30:21,240 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 238
+2026-01-17 12:31:25,276 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 239
+2026-01-17 12:32:29,330 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 240
+2026-01-17 12:33:33,378 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 241
+2026-01-17 12:34:37,369 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 242
+2026-01-17 12:35:41,203 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 243
+2026-01-17 12:36:44,841 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 244
+2026-01-17 12:37:48,539 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 245
+2026-01-17 12:38:50,489 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 246
+2026-01-17 12:39:54,902 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 247
+2026-01-17 12:40:59,695 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 248
+2026-01-17 12:42:04,789 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 249
+2026-01-17 12:43:09,425 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 250
+2026-01-17 12:44:14,145 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 251
+2026-01-17 12:45:18,839 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 252
+2026-01-17 12:46:23,520 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 253
+2026-01-17 12:47:26,069 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 254
+2026-01-17 12:48:29,547 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 255
+2026-01-17 12:49:30,931 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 256
+2026-01-17 12:50:31,303 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 257
+2026-01-17 12:51:31,637 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 258
+2026-01-17 12:52:31,997 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 259
+2026-01-17 12:53:32,366 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 260
+2026-01-17 12:54:32,761 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 261
+2026-01-17 12:55:33,110 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 262
+2026-01-17 12:56:33,468 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 263
+2026-01-17 12:57:33,784 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 264
+2026-01-17 12:58:34,133 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 265
+2026-01-17 12:59:34,508 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 266
+2026-01-17 13:00:34,885 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 267
+2026-01-17 13:01:35,191 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 268
+2026-01-17 13:02:35,560 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 269
+2026-01-17 13:03:35,854 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 270
+2026-01-17 13:04:36,204 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 271
+2026-01-17 13:05:36,595 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 272
+2026-01-17 13:06:36,942 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 273
+2026-01-17 13:07:37,704 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 274
+2026-01-17 13:08:38,318 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 275
+2026-01-17 13:09:38,649 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 276
+2026-01-17 13:10:39,035 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 277
+2026-01-17 13:11:39,376 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 278
+2026-01-17 13:12:39,768 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 279
+2026-01-17 13:13:41,383 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 280
+2026-01-17 13:14:41,760 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 281
+2026-01-17 13:15:42,145 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 282
+2026-01-17 13:16:42,514 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 283
+2026-01-17 13:17:42,998 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 284
+2026-01-17 13:18:43,388 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 285
+2026-01-17 13:19:43,751 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 286
+2026-01-17 13:20:44,129 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 287
+2026-01-17 13:21:44,521 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 288
+2026-01-17 13:22:44,885 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 289
+2026-01-17 13:23:45,257 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 290
+2026-01-17 13:24:45,653 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 291
+2026-01-17 13:25:46,022 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 292
+2026-01-17 13:26:46,388 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 293
+2026-01-17 13:27:46,967 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 294
+2026-01-17 13:28:47,531 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 295
+2026-01-17 13:29:47,883 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 296
+2026-01-17 13:30:48,255 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 297
+2026-01-17 13:31:48,611 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 298
+2026-01-17 13:32:48,987 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 299
+2026-01-17 13:33:49,344 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 300
+2026-01-17 13:34:49,728 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 301
+2026-01-17 13:35:50,073 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 302
+2026-01-17 13:36:50,456 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 303
+2026-01-17 13:37:50,854 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 304
+2026-01-17 13:38:51,308 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 305
+2026-01-17 13:39:51,675 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 306
+2026-01-17 13:40:52,020 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 307
+2026-01-17 13:41:53,374 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 308
+2026-01-17 13:42:53,793 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 309
+2026-01-17 13:43:54,156 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 310
+2026-01-17 13:44:54,530 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 311
+2026-01-17 13:45:54,855 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 312
+2026-01-17 13:46:55,204 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 313
+2026-01-17 13:47:55,562 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 314
+2026-01-17 13:48:55,940 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 315
+2026-01-17 13:49:56,313 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 316
+2026-01-17 13:50:56,696 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 317
+2026-01-17 13:51:57,069 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 318
+2026-01-17 13:52:57,397 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 319
+2026-01-17 13:53:57,730 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 320
+2026-01-17 13:54:58,103 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 321
+2026-01-17 13:55:58,528 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 322
+2026-01-17 13:56:59,326 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 323
+2026-01-17 13:57:59,699 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 324
+2026-01-17 13:59:00,044 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 325
+2026-01-17 14:00:00,383 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 326
+2026-01-17 14:01:00,721 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 327
+2026-01-17 14:02:01,084 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 328
+2026-01-17 14:03:01,442 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 329
+2026-01-17 14:04:01,835 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 330
+2026-01-17 14:05:02,120 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 331
+2026-01-17 14:06:02,503 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 332
+2026-01-17 14:07:02,851 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 333
+2026-01-17 14:08:03,237 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 334
+2026-01-17 14:09:03,570 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 335
+2026-01-17 14:10:03,898 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 336
+2026-01-17 14:11:04,299 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 337
+2026-01-17 14:12:04,672 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 338
+2026-01-17 14:13:05,014 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 339
+2026-01-17 14:14:05,405 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 340
+2026-01-17 14:15:05,788 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 341
+2026-01-17 14:16:06,157 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 342
+2026-01-17 14:17:06,543 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 343
+2026-01-17 14:18:07,003 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 344
+2026-01-17 14:19:07,339 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 345
+2026-01-17 14:20:08,696 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 346
+2026-01-17 14:21:09,075 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 347
+2026-01-17 14:22:09,399 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 348
+2026-01-17 14:23:09,760 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 349
+2026-01-17 14:24:10,146 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 350
+2026-01-17 14:25:10,514 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 351
+2026-01-17 14:26:10,888 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 352
+2026-01-17 14:27:11,272 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 353
+2026-01-17 14:28:11,652 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 354
+2026-01-17 14:29:11,994 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 355
+2026-01-17 14:30:12,310 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 356
+2026-01-17 14:31:12,679 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 357
+2026-01-17 14:32:12,995 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 358
+2026-01-17 14:33:13,362 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 359
+2026-01-17 14:34:13,749 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 360
+2026-01-17 14:35:14,116 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 361
+2026-01-17 14:36:14,482 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 362
+2026-01-17 14:37:14,834 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 363
+2026-01-17 14:38:15,168 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 364
+2026-01-17 14:39:15,486 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 365
+2026-01-17 14:40:16,513 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 366
+2026-01-17 14:41:17,121 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 367
+2026-01-17 14:42:17,463 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 368
+2026-01-17 14:43:17,796 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 369
+2026-01-17 14:44:18,174 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 370
+2026-01-17 14:45:18,530 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 371
+2026-01-17 14:46:18,892 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 372
+2026-01-17 14:47:19,210 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 373
+2026-01-17 14:48:19,542 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 374
+2026-01-17 14:49:19,877 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 375
+2026-01-17 14:50:20,817 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 376
+2026-01-17 14:51:21,171 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 377
+2026-01-17 14:52:21,725 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 378
+2026-01-17 14:53:22,080 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 379
+2026-01-17 14:54:22,438 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 380
+2026-01-17 14:55:22,786 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 381
+2026-01-17 14:56:23,145 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 382
+2026-01-17 14:57:25,206 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 383
+2026-01-17 14:58:25,812 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 384
+2026-01-17 14:59:26,164 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 385
+2026-01-17 15:00:26,931 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 386
+2026-01-17 15:01:28,365 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 387
+2026-01-17 15:02:28,921 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 388
+2026-01-17 15:03:29,190 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 389
+2026-01-17 15:04:29,782 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 390
+2026-01-17 15:05:30,716 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 391
+2026-01-17 15:06:31,104 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 392
+2026-01-17 15:07:32,497 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 393
+2026-01-17 15:08:33,074 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 394
+2026-01-17 15:09:33,624 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 395
+2026-01-17 15:10:36,719 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 396
+2026-01-17 15:11:37,300 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 397
+2026-01-17 15:12:37,840 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 398
+2026-01-17 15:13:38,128 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 399
+2026-01-17 15:14:38,569 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 400
+2026-01-17 15:15:38,923 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 401
+2026-01-17 15:16:39,295 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 402
+2026-01-17 15:17:39,685 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 403
+2026-01-17 15:18:40,277 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 404
+2026-01-17 15:19:40,659 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 405
+2026-01-17 15:20:41,437 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 406
+2026-01-17 15:21:42,244 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 407
+2026-01-17 15:22:42,601 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 408
+2026-01-17 15:23:42,920 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 409
+2026-01-17 15:24:43,340 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 410
+2026-01-17 15:25:43,737 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 411
+2026-01-17 15:26:44,102 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 412
+2026-01-17 15:27:44,456 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 413
+2026-01-17 15:28:45,254 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 414
+2026-01-17 15:29:45,629 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 415
+2026-01-17 15:30:46,034 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 416
+2026-01-17 15:31:46,520 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 417
+2026-01-17 15:32:47,082 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 418
+2026-01-17 15:33:47,456 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 419
+2026-01-17 15:34:48,175 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 420
+2026-01-17 15:35:48,645 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 421
+2026-01-17 15:36:49,454 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 422
+2026-01-17 15:37:51,585 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 423
+2026-01-17 15:38:52,868 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 424
+2026-01-17 15:39:55,072 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 425
+2026-01-17 15:40:56,568 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 426
+2026-01-17 15:41:57,554 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 427
+2026-01-17 15:42:59,387 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 428
+2026-01-17 15:44:00,880 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 429
+2026-01-17 15:45:02,331 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 430
+2026-01-17 15:46:03,297 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 431
+2026-01-17 15:47:04,176 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 432
+2026-01-17 15:48:05,952 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 433
+2026-01-17 15:49:06,964 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 434
+2026-01-17 15:50:08,560 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 435
+2026-01-17 15:51:09,490 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 436
+2026-01-17 15:52:09,884 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 437
+2026-01-17 15:53:10,856 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 438
+2026-01-17 15:54:11,512 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 439
+2026-01-17 15:55:11,954 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 440
+2026-01-17 15:56:12,919 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 441
+2026-01-17 15:57:13,359 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 442
+2026-01-17 15:58:14,083 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 443
+2026-01-17 15:59:14,556 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 444
+2026-01-17 16:00:14,968 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 445
+2026-01-17 16:01:15,358 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 446
+2026-01-17 16:02:15,754 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 447
+2026-01-17 16:03:16,372 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 448
+2026-01-17 16:04:17,254 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 449
+2026-01-17 16:05:18,141 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 450
+2026-01-17 16:06:18,625 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 451
+2026-01-17 16:07:19,105 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 452
+2026-01-17 16:08:19,643 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 453
+2026-01-17 16:09:20,495 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 454
+2026-01-17 16:10:20,972 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 455
+2026-01-17 16:11:21,360 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 456
+2026-01-17 16:12:21,797 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 457
+2026-01-17 16:13:23,207 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 458
+2026-01-17 16:14:23,690 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 459
+2026-01-17 16:15:25,132 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 460
+2026-01-17 16:16:26,132 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 461
+2026-01-17 16:17:27,058 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 462
+2026-01-17 16:18:27,370 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 463
+2026-01-17 16:19:27,912 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 464
+2026-01-17 16:20:28,243 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 465
+2026-01-17 16:21:30,457 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 466
+2026-01-17 16:22:31,382 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 467
+2026-01-17 16:23:32,871 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 468
+2026-01-17 16:24:34,212 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 469
+2026-01-17 16:25:35,608 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 470
+2026-01-17 16:26:37,176 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 471
+2026-01-17 16:27:38,482 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 472
+2026-01-17 16:28:39,285 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 473
+2026-01-17 16:29:39,696 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 474
+2026-01-17 16:30:40,133 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 475
+2026-01-17 16:31:40,646 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 476
+2026-01-17 16:32:41,114 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 477
+2026-01-17 16:33:41,989 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 478
+2026-01-17 16:34:43,777 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 479
+2026-01-17 16:35:45,656 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 480
+2026-01-17 16:36:47,321 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 481
+2026-01-17 16:37:48,334 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 482
+2026-01-17 16:38:50,067 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 483
+2026-01-17 16:39:51,505 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 484
+2026-01-17 16:40:52,610 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 485
+2026-01-17 16:41:54,363 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 486
+2026-01-17 16:42:55,851 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 487
+2026-01-17 16:43:57,639 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 488
+2026-01-17 16:44:59,459 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 489
+2026-01-17 16:46:01,091 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 490
+2026-01-17 16:47:03,014 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 491
+2026-01-17 16:48:04,194 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 492
+2026-01-17 16:49:05,878 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 493
+2026-01-17 16:50:07,140 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 494
+2026-01-17 16:51:08,034 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 495
+2026-01-17 16:52:09,138 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 496
+2026-01-17 16:53:10,562 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 497
+2026-01-17 16:54:11,996 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 498
+2026-01-17 16:55:13,503 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 499
+2026-01-17 16:56:14,450 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 500
+2026-01-17 16:57:16,044 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 501
+2026-01-17 16:58:17,664 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 502
+2026-01-17 18:51:57,346 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:52:09,071 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:52:20,718 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 18:52:20,723 - WARNING - Retrying in 60s...
+2026-01-17 18:53:31,820 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:53:42,690 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:53:55,121 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 18:53:55,122 - WARNING - Retrying in 60s...
+2026-01-17 18:55:06,317 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:55:17,179 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:55:29,826 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 18:55:29,828 - WARNING - Retrying in 60s...
+2026-01-17 18:56:40,924 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:56:51,945 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:57:04,479 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 18:57:04,480 - WARNING - Retrying in 60s...
+2026-01-17 18:58:15,568 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:58:26,414 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 18:58:38,255 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 18:58:38,257 - WARNING - Retrying in 60s...
+2026-01-17 18:59:50,052 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:00:00,896 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:00:12,729 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 19:00:12,730 - WARNING - Retrying in 60s...
+2026-01-17 19:01:23,861 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:01:35,300 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:01:47,138 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 19:01:47,139 - WARNING - Retrying in 60s...
+2026-01-17 19:02:58,204 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:03:09,689 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:03:21,529 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 19:03:21,530 - WARNING - Retrying in 60s...
+2026-01-17 19:04:32,665 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:04:44,152 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:04:55,991 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 19:04:55,992 - WARNING - Retrying in 60s...
+2026-01-17 19:06:07,112 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:06:17,945 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:06:30,406 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 19:06:30,407 - WARNING - Retrying in 60s...
+2026-01-17 19:07:41,536 - WARNING - Attempt 1/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:07:52,371 - WARNING - Attempt 2/3 failed: 'NoneType' object is not subscriptable
+2026-01-17 19:08:04,794 - ERROR - Failed to fetch price after 3 retries: 'NoneType' object is not subscriptable
+2026-01-17 19:08:04,795 - WARNING - Retrying in 60s...
+2026-01-17 19:09:08,818 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 503
+2026-01-17 19:10:10,126 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 504
+2026-01-17 19:11:11,840 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 505
+2026-01-17 19:12:13,588 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 506
+2026-01-17 19:13:15,457 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 507
+2026-01-17 19:14:16,661 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 508
+2026-01-17 19:15:18,627 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 509
+2026-01-17 19:16:20,502 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 510
+2026-01-17 19:17:22,557 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 511
+2026-01-17 19:18:24,598 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 512
+2026-01-17 19:19:26,504 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 513
+2026-01-17 19:20:28,420 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 514
+2026-01-17 19:21:30,075 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 515
+2026-01-17 19:22:31,179 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 516
+2026-01-17 19:23:33,004 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 517
+2026-01-17 19:24:34,871 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 518
+2026-01-17 19:25:36,721 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 519
+2026-01-17 19:26:38,495 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 520
+2026-01-17 19:27:40,499 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 521
+2026-01-17 19:28:42,407 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 522
+2026-01-17 19:29:44,348 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 523
+2026-01-17 19:30:45,579 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 524
+2026-01-17 19:31:47,496 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 525
+2026-01-17 19:32:49,220 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 526
+2026-01-17 19:33:51,219 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 527
+2026-01-17 19:34:52,680 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 528
+2026-01-17 19:35:54,619 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 529
+2026-01-17 19:36:56,721 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 530
+2026-01-17 19:37:59,102 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 531
+2026-01-17 19:39:01,100 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 532
+2026-01-17 19:40:02,415 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 533
+2026-01-17 19:41:04,314 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 534
+2026-01-17 19:42:06,188 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 535
+2026-01-17 19:43:08,382 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 536
+2026-01-17 19:44:09,307 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 537
+2026-01-17 19:45:11,004 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 538
+2026-01-17 19:46:12,881 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 539
+2026-01-17 19:47:14,583 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 540
+2026-01-17 19:48:16,668 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 541
+2026-01-17 19:49:18,278 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 542
+2026-01-17 19:50:19,931 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 543
+2026-01-17 19:51:21,913 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 544
+2026-01-17 19:52:22,878 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 545
+2026-01-17 19:53:24,509 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 546
+2026-01-17 19:54:26,156 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 547
+2026-01-17 19:55:27,903 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 548
+2026-01-17 19:56:29,600 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 549
+2026-01-17 19:57:31,390 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 550
+2026-01-17 19:58:33,232 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 551
+2026-01-17 19:59:34,963 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 552
+2026-01-17 20:00:35,977 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 553
+2026-01-17 20:01:37,914 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 554
+2026-01-17 20:02:39,725 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 555
+2026-01-17 20:03:41,674 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 556
+2026-01-17 20:04:43,579 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 557
+2026-01-17 20:05:45,544 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 558
+2026-01-17 20:06:47,823 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 559
+2026-01-17 20:07:50,011 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 560
+2026-01-17 20:08:51,402 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 561
+2026-01-17 20:09:53,644 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 562
+2026-01-17 20:10:56,088 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 563
+2026-01-17 20:11:58,239 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 564
+2026-01-17 20:13:00,323 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 565
+2026-01-17 20:14:02,425 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 566
+2026-01-17 20:15:04,558 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 567
+2026-01-17 20:16:06,597 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 568
+2026-01-17 20:17:07,883 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 569
+2026-01-17 20:18:09,902 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 570
+2026-01-17 20:19:11,953 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 571
+2026-01-17 20:20:14,252 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 572
+2026-01-17 20:21:15,934 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 573
+2026-01-17 20:22:18,219 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 574
+2026-01-17 20:23:20,696 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 575
+2026-01-17 20:24:23,009 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 576
+2026-01-17 20:25:25,304 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 577
+2026-01-17 20:26:27,627 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 578
+2026-01-17 20:27:29,802 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 579
+2026-01-17 20:28:32,100 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 580
+2026-01-17 20:29:34,237 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 581
+2026-01-17 20:30:35,626 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 582
+2026-01-17 20:31:37,913 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 583
+2026-01-17 20:32:41,141 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 584
+2026-01-17 20:33:43,685 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 585
+2026-01-17 20:34:45,054 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 586
+2026-01-17 20:35:47,373 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 587
+2026-01-17 20:36:49,670 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 588
+2026-01-17 20:37:52,060 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 589
+2026-01-17 20:38:54,624 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 590
+2026-01-17 20:39:57,157 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 591
+2026-01-17 20:40:59,663 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 592
+2026-01-17 20:42:02,359 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 593
+2026-01-17 20:43:03,859 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 594
+2026-01-17 20:44:06,133 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 595
+2026-01-17 20:45:08,555 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 596
+2026-01-17 20:46:10,897 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 597
+2026-01-17 20:47:14,643 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 598
+2026-01-17 20:48:17,294 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 599
+2026-01-17 20:49:19,520 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 600
+2026-01-17 20:50:21,788 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 601
+2026-01-17 20:51:23,285 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 602
+2026-01-17 20:52:25,483 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 603
+2026-01-17 20:53:27,821 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 604
+2026-01-17 20:54:30,231 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 605
+2026-01-17 20:55:32,470 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 606
+2026-01-17 20:56:34,772 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 607
+2026-01-17 20:57:36,507 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 608
+2026-01-17 20:58:38,840 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 609
+2026-01-17 20:59:41,437 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 610
+2026-01-17 21:00:42,940 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 611
+2026-01-17 21:01:45,123 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 612
+2026-01-17 21:02:47,475 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 613
+2026-01-17 21:03:49,951 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 614
+2026-01-17 21:04:52,490 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 615
+2026-01-17 21:05:55,022 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 616
+2026-01-17 21:06:57,723 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 617
+2026-01-17 21:08:00,191 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 618
+2026-01-17 21:09:02,383 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 619
+2026-01-17 21:10:04,823 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 620
+2026-01-17 21:11:07,137 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 621
+2026-01-17 21:12:09,159 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 622
+2026-01-17 21:13:10,349 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 623
+2026-01-17 21:14:12,326 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 624
+2026-01-17 21:15:14,139 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 625
+2026-01-17 21:16:16,048 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 626
+2026-01-17 21:17:18,025 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 627
+2026-01-17 21:18:19,826 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 628
+2026-01-17 21:19:21,664 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 629
+2026-01-17 21:20:23,164 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 630
+2026-01-17 21:21:25,040 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 631
+2026-01-17 21:22:26,310 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 632
+2026-01-17 21:23:28,710 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 633
+2026-01-17 21:24:30,703 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 634
+2026-01-17 21:25:31,961 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 635
+2026-01-17 21:26:34,125 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 636
+2026-01-17 21:27:36,332 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 637
+2026-01-17 21:28:38,633 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 638
+2026-01-17 21:29:40,943 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 639
+2026-01-17 21:30:43,520 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 640
+2026-01-17 21:31:46,167 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 641
+2026-01-17 21:32:48,911 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 642
+2026-01-17 21:33:50,111 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 643
+2026-01-17 21:34:52,768 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 644
+2026-01-17 21:35:55,004 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 645
+2026-01-17 21:36:56,997 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 646
+2026-01-17 21:37:58,502 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 647
+2026-01-17 21:39:00,461 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 648
+2026-01-17 21:40:03,688 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 649
+2026-01-17 21:41:06,196 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 650
+2026-01-17 21:42:08,346 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 651
+2026-01-17 21:43:09,942 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 652
+2026-01-17 21:44:11,926 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 653
+2026-01-17 21:45:13,895 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 654
+2026-01-17 21:46:15,559 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 655
+2026-01-17 21:47:17,420 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 656
+2026-01-17 21:48:19,448 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 657
+2026-01-17 21:49:21,427 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 658
+2026-01-17 21:50:21,976 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 659
+2026-01-17 21:51:23,898 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 660
+2026-01-17 21:52:25,974 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 661
+2026-01-17 21:53:28,208 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 662
+2026-01-17 21:54:30,301 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 663
+2026-01-17 21:55:32,568 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 664
+2026-01-17 21:56:34,737 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 665
+2026-01-17 21:57:37,017 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 666
+2026-01-17 21:58:38,672 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 667
+2026-01-17 21:59:41,233 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 668
+2026-01-17 22:00:43,819 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 669
+2026-01-17 22:01:46,173 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 670
+2026-01-17 22:02:48,549 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 671
+2026-01-17 22:03:50,959 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 672
+2026-01-17 22:04:55,141 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 673
+2026-01-17 22:05:57,888 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 674
+2026-01-17 22:06:59,204 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 675
+2026-01-17 22:08:01,971 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 676
+2026-01-17 22:09:04,245 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 677
+2026-01-17 22:10:06,810 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 678
+2026-01-17 22:11:09,403 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 679
+2026-01-17 22:12:12,153 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 680
+2026-01-17 22:13:15,088 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 681
+2026-01-17 22:14:18,042 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 682
+2026-01-17 22:15:20,052 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 683
+2026-01-17 22:16:22,248 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 684
+2026-01-17 22:17:24,582 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 685
+2026-01-17 22:18:27,187 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 686
+2026-01-17 22:19:28,648 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 687
+2026-01-17 22:20:31,258 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 688
+2026-01-17 22:21:33,419 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 689
+2026-01-17 22:22:35,532 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 690
+2026-01-17 22:23:36,742 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 691
+2026-01-17 22:24:38,762 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 692
+2026-01-17 22:25:40,663 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 693
+2026-01-17 22:26:42,598 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 694
+2026-01-17 22:27:43,801 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 695
+2026-01-17 22:28:46,066 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 696
+2026-01-17 22:29:48,405 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 697
+2026-01-17 22:30:50,788 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 698
+2026-01-17 22:31:53,055 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 699
+2026-01-17 22:32:55,514 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 700
+2026-01-17 22:33:58,881 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 701
+2026-01-17 22:35:00,496 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 702
+2026-01-17 22:36:03,490 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 703
+2026-01-17 22:37:05,739 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 704
+2026-01-17 22:38:07,972 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 705
+2026-01-17 22:39:10,245 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 706
+2026-01-17 22:40:11,757 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 707
+2026-01-17 22:41:13,982 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 708
+2026-01-17 22:42:16,406 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 709
+2026-01-17 22:43:20,095 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 710
+2026-01-17 22:44:23,536 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 711
+2026-01-17 22:45:24,977 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 712
+2026-01-17 22:46:27,229 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 713
+2026-01-17 22:47:29,531 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 714
+2026-01-17 22:48:31,792 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 715
+2026-01-17 22:49:34,414 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 716
+2026-01-17 22:50:36,575 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 717
+2026-01-17 22:51:38,662 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 718
+2026-01-17 22:52:39,931 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 719
+2026-01-17 22:53:41,696 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 720
+2026-01-17 22:54:44,052 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 721
+2026-01-17 22:55:47,631 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 722
+2026-01-17 22:56:50,194 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 723
+2026-01-17 22:57:52,713 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 724
+2026-01-17 22:58:55,200 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 725
+2026-01-17 22:59:57,480 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 726
+2026-01-17 23:00:59,797 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 727
+2026-01-17 23:02:01,094 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 728
+2026-01-17 23:03:03,451 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 729
+2026-01-17 23:04:05,825 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 730
+2026-01-17 23:05:08,221 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 731
+2026-01-17 23:06:10,618 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 732
+2026-01-17 23:07:12,837 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 733
+2026-01-17 23:08:15,523 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 734
+2026-01-17 23:09:18,254 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 735
+2026-01-17 23:10:19,985 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 736
+2026-01-17 23:11:23,095 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 737
+2026-01-17 23:12:26,269 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 738
+2026-01-17 23:13:29,424 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 739
+2026-01-17 23:14:31,076 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 740
+2026-01-17 23:15:33,571 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 741
+2026-01-17 23:16:36,040 - INFO - AAPL Price: $255.48 | SMA: $255.48 | Records: 742
